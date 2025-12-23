@@ -42,7 +42,9 @@ me.say_hi()
 
 #### Connect with me
 
-![https://www.instagram.com/augs.10/?igsh=MWZiZmNibmpuZHdwdQ%3D%3D#](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@abuki.84?_r=1&_t=ZS-91xrIm127Wh](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)  ![https://www.facebook.com/augustin.abociii/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/augustin.abociii/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@abuki.84?_r=1&_t=ZS-92S66dhyn7X) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augs.10?igsh=MWZiZmNibmpuZHdwdQ==)
 
 ##### My Github Stats 
 
@@ -153,6 +155,86 @@ Powerful birds of prey with excellent vision, symbolizing strength and freedom.<
 </table>
 
 ---
+
+### 🏠 Home Page & 📖 Bird Description
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Home Page</strong><br/>
+      <img src="app_screenshots/Homepage.jpg" alt="Home Page" width="200"/><br/>
+      <sub></sub>
+    </td>
+    <td align="center">
+      <strong>Bird Description</strong><br/>
+      <img src="app_screenshots/Crow.jpg" alt="Bird Description" width="200"/><br/>
+      <sub></sub>
+    </td>
+      <td align="center">
+      <strong>Bird Description</strong><br/>
+      <img src="app_screenshots/Eagle.jpg" alt="Bird Description" width="200"/><br/>
+      <sub></sub>
+    </td>
+      <td align="center">
+      <strong>Bird Description</strong><br/>
+      <img src="app_screenshots/Peacock.jpg" alt="Bird Description" width="200"/><br/>
+      <sub></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+Below are sample screens showing the Birds that Bird Classifier can classify:
+
+<p align="center">
+  <img src="app_screenshots/Swan.jpg" alt="Swan" width="165"/>
+  <img src="app_screenshots/Sparrow.jpg" alt="Sparrow" width="165"/>
+  <img src="app_screenshots/Penguin.jpg" alt="Penguin" width="165"/>
+  <img src="app_screenshots/Pigeon.jpg" alt="Pigeon" width="165"/>
+  <img src="app_screenshots/Parrot.jpg" alt="Parrot" width="165"/>
+</p>
+
+<p align="center">
+  <img src="app_screenshots/Eagle.jpg" alt="Eagle" width="165"/>
+  <img src="app_screenshots/Crow.jpg" alt="Crow" width="165"/>
+  <img src="app_screenshots/Hummingbird.jpg" alt="Hummingbird" width="165"/>
+  <img src="app_screenshots/Peacock.jpg" alt="Peacock" width="165"/>
+  <img src="app_screenshots/Owl.jpg" alt="Owl" width="165"/>
+</p>
+
+
+### 📷 Capture or Upload Images
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Capture or Upload Images</strong><br/>
+      <img src="app_screenshots/Camera.jpg" alt="Camera Page" width="200"/>
+      <img src="app_screenshots/Gallery.jpg" alt="Gallery Page" width="200"/><br/>
+      <sub>Users can either take a new photo using the camera or upload an existing image from their device. These images are then sent to the model for fungi classification.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Analytics, Detections per Class & 🕒 Scan History
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Charts</strong><br/>
+      <img src="app_screenshots/Chart1.jpg" alt="Chart1" width="200"/>
+      <img src="app_screenshots/Chart2.jpg" alt="Chart2" width="200"/><br/>
+      <sub>The Chart summarizes how the app is being used, including how many detections each fungi class has. The Detections per Class chart visualizes how often each type of bird has been classify.</sub>
+    </td>
+    <td align="center">
+      <strong>History</strong><br/>
+      <img src="app_screenshots/History.jpg" alt="History Page" width="200"/><br/>
+      <sub>The History page keeps a record of past scans, including the detected class, accuracy, and time. This lets users review previous results and track their usage of Bird Classifier.</sub>
+    </td>
+  </tr>
 
 
 
